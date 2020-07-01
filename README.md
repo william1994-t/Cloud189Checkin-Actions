@@ -10,7 +10,7 @@
 > [Cloud189](https://github.com/Dawnnnnnn/Cloud189)
 > [cloud189](https://github.com/Aruelius/cloud189)
 
-# Github Actions说明
+# Github Actions说明1
 ## 一、Fork此仓库
 ![](http://tu.yaohuo.me/imgs/2020/06/f059fe73afb4ef5f.png)
 ## 二、设置账号密码
